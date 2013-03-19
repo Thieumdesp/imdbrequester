@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.settings/
+target/
+.project
+.classpath
+.metadata/
+bin
+
+backoffice-db*
+
+*.orig
